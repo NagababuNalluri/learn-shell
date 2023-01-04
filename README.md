@@ -15,6 +15,8 @@ welcome to shell scripting
 9.Redirectors
 10.SED operations
 
+we are going to learn all the topics when ever we get need there we can discuss each and topic respectively
+
 
 # Writing daily routine works of mine
 
