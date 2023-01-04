@@ -12,6 +12,9 @@ welcome to shell scripting
 6.exit status
 7.inputs
 8.quotes
+9.Redirectors
+10.SED operations
+
 
 # Writing daily routine works of mine
 
