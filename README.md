@@ -22,4 +22,7 @@ we are going to learn all the topics when ever we get need there we can discuss 
 
 echo  hello
 
+ls
+
+mkdir nag
 
