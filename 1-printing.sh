@@ -5,4 +5,4 @@ for i in {1..100..4} ; do
   done
 
 DATE=$(date +%F)
-echo today date is $DATE
+echo today date is "$DATE"
