@@ -1,2 +1,2 @@
-echp hello dude
+echo hello dude
 
