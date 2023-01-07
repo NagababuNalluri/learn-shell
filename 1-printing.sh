@@ -4,5 +4,10 @@ date
 
 echo $(date +%F)
 
+pwd
 
-# Hi mike how are you
+a=Nagababu
+
+echo My name is $a
+
+
