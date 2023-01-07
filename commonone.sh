@@ -1,6 +1,6 @@
-echo -e  "\e[31mhello\e[0m"
+echo -e  "\e[1;31mhello\e[0m"
 
-echo -e  "\e[32mhello\e[0m"
+echo -e  "\e[1;32mhello\e[0m"
 
 echo -e  "\e[33mhello\e[0m"
 
