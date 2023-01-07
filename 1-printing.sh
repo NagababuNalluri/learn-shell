@@ -4,5 +4,5 @@ for i in {1..100..4} ; do
   echo $i
   done
 
-DATE=$(+%F)
+DATE=$(Date +%F)
 echo today date is $DATE
