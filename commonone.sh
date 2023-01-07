@@ -1,1 +1,1 @@
-echo "\e[31m hello \e[0m"
+echo -e "\e[31m hello \e[0m"
