@@ -18,7 +18,7 @@ echo My name is $c
 echo My wife name lalitha kumari
 
 
-for i in {1..35}; do
+for i in {1..35..2}; do
   echo print $i
   done
 
