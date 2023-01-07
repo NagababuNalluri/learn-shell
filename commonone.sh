@@ -26,5 +26,7 @@ echo ${a[6]}
 
 echo ${a[7]}
 
-nag=hello
+
+
+
 echo nag=$nag
