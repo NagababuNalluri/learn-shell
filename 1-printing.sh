@@ -19,7 +19,7 @@ echo My wife name lalitha kumari
 
 
 for i in {1..35..2}; do
-  echo print $i
+  echo print "$i"
   done
 
 
