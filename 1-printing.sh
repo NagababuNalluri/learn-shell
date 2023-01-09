@@ -13,3 +13,7 @@ echo addition of two numbers is $add
 
 
 echo hello nagababu
+
+echo hello hemasri
+
+echo hello lalitha
